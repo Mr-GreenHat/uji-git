@@ -1,2 +1,5 @@
-ini adalah program utama penjumlahan
-1 + 1
+ini adalah program utama operasi
+
+Function penjumlahan 1+1
+
+Function Pengurangan 1-1
